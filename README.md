@@ -8,13 +8,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/taniabhat/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/taniabhat/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
