@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/taniabhat/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/taniabhat/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/taniabhat/DSA/tree/master/0046-permutations) |
+| [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/taniabhat/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/taniabhat/DSA/tree/master/0213-house-robber-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/taniabhat/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/taniabhat/DSA/tree/master/0070-climbing-stairs) |
 | [0132-palindrome-partitioning-ii](https://github.com/taniabhat/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/taniabhat/DSA/tree/master/0198-house-robber) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
