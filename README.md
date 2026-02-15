@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/taniabhat/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/taniabhat/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/taniabhat/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/taniabhat/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 | [0132-palindrome-partitioning-ii](https://github.com/taniabhat/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [1745-palindrome-partitioning-iv](https://github.com/taniabhat/DSA/tree/master/1745-palindrome-partitioning-iv) |
 ## Binary Search
@@ -160,5 +162,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
