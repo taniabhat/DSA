@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/taniabhat/DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/taniabhat/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/taniabhat/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/taniabhat/DSA/tree/master/0046-permutations) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/taniabhat/DSA/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taniabhat/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/taniabhat/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
