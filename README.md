@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taniabhat/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/taniabhat/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/taniabhat/DSA/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/taniabhat/DSA/tree/master/0217-contains-duplicate) |
 | [0312-burst-balloons](https://github.com/taniabhat/DSA/tree/master/0312-burst-balloons) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniabhat/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -201,12 +202,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/taniabhat/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/taniabhat/DSA/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/taniabhat/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/taniabhat/DSA/tree/master/0217-contains-duplicate) |
 ## Trie
 |  |
 | ------- |
