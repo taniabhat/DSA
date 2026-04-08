@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
+| [0371-sum-of-two-integers](https://github.com/taniabhat/DSA/tree/master/0371-sum-of-two-integers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/taniabhat/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/taniabhat/DSA/tree/master/0070-climbing-stairs) |
+| [0371-sum-of-two-integers](https://github.com/taniabhat/DSA/tree/master/0371-sum-of-two-integers) |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 ## Combinatorics
 |  |
