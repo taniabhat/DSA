@@ -11,17 +11,16 @@
  */
 class Solution {
 public:
-    int checkHeight(TreeNode* root) {
-        if (!root) return 0;
-        int left = checkHeight(root->left);
-        if (left == -1) return -1;
-        int right = checkHeight(root->right);
-        if (right == -1) return -1;
-        if (abs(left - right) > 1) return -1;
-        return 1 + max(left, right);
+    int checkHeight(TreeNode* root){
+        if(root==NULL) return 0;
+        int l=checkHeight(root->left);
+        if(l==-1) return -1;
+        int r= checkHeight(root->right);
+        if(r==-1) return -1;
+        if(abs(l-r)>1) return -1;
+        return 1+max(l,r);
     }
-
     bool isBalanced(TreeNode* root) {
-        return checkHeight(root) != -1;
+        return checkHeight(root)!=-1;
     }
 };
