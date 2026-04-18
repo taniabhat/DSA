@@ -21,7 +21,7 @@ public:
 
 class Solution {
 public:
-    unordered_map<Node*,Node*> mp;      
+    unordered_map<Node*,Node*> mp;      //hash maps used to detect cycles in graph     
     Node* cloneGraph(Node* node) {
         if(!node) return NULL;
         
