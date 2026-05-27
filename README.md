@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/taniabhat/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/taniabhat/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1745-palindrome-partitioning-iv](https://github.com/taniabhat/DSA/tree/master/1745-palindrome-partitioning-iv) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/taniabhat/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/taniabhat/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/taniabhat/DSA/tree/master/0217-contains-duplicate) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/taniabhat/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sorting
 |  |
 | ------- |
