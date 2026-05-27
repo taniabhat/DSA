@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/taniabhat/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/taniabhat/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/taniabhat/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/taniabhat/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/taniabhat/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/taniabhat/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/taniabhat/DSA/tree/master/0070-climbing-stairs) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/taniabhat/DSA/tree/master/0060-permutation-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/taniabhat/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
