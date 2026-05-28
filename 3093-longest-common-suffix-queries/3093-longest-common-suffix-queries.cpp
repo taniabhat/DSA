@@ -1,10 +1,3 @@
-#include <vector>
-#include <string>
-#include <algorithm>
-
-using namespace std;
-
-// A lightweight, flat Trie node structure using integer array indices instead of raw pointers
 struct FlatNode {
     int children[26];
     int bestIndex;
@@ -20,22 +13,19 @@ private:
     vector<FlatNode> trie;
 
     void insert(const string& word, int wordIdx, const vector<string>& wordsContainer) {
-        int currIdx = 0; // The root node is always at index 0
+        int currIdx = 0;
         int n = word.length();
         
-        // Traverse the word backwards to evaluate as a suffix match
         for (int i = n - 1; i >= 0; --i) {
             int charIdx = word[i] - 'a';
             
             if (trie[currIdx].children[charIdx] == -1) {
-                // Instantiate a new node flatly within the vector
                 trie[currIdx].children[charIdx] = trie.size();
                 trie.push_back(FlatNode(wordIdx));
             }
             
             currIdx = trie[currIdx].children[charIdx];
             
-            // Evaluate tie-breaking constraints at the current node level
             int bestIdx = trie[currIdx].bestIndex;
             if (n < wordsContainer[bestIdx].length()) {
                 trie[currIdx].bestIndex = wordIdx;
