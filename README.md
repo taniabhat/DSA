@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/taniabhat/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/taniabhat/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3093-longest-common-suffix-queries](https://github.com/taniabhat/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/taniabhat/DSA/tree/master/3161-block-placement-queries) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/taniabhat/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/taniabhat/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Backtracking
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taniabhat/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 | [1631-path-with-minimum-effort](https://github.com/taniabhat/DSA/tree/master/1631-path-with-minimum-effort) |
+| [3161-block-placement-queries](https://github.com/taniabhat/DSA/tree/master/3161-block-placement-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -291,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/taniabhat/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taniabhat/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/taniabhat/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/taniabhat/DSA/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/taniabhat/DSA/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
