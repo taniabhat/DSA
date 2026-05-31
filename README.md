@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniabhat/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/taniabhat/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/taniabhat/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2126-destroying-asteroids](https://github.com/taniabhat/DSA/tree/master/2126-destroying-asteroids) |
 | [3093-longest-common-suffix-queries](https://github.com/taniabhat/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/taniabhat/DSA/tree/master/3161-block-placement-queries) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/taniabhat/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/taniabhat/DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/taniabhat/DSA/tree/master/0217-contains-duplicate) |
+| [2126-destroying-asteroids](https://github.com/taniabhat/DSA/tree/master/2126-destroying-asteroids) |
 ## Trie
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/taniabhat/DSA/tree/master/0055-jump-game) |
+| [2126-destroying-asteroids](https://github.com/taniabhat/DSA/tree/master/2126-destroying-asteroids) |
 ## Linked List
 |  |
 | ------- |
