@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/taniabhat/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/taniabhat/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
+| [0113-path-sum-ii](https://github.com/taniabhat/DSA/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/taniabhat/DSA/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bit Manipulation
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/taniabhat/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/taniabhat/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/taniabhat/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/taniabhat/DSA/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/taniabhat/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/taniabhat/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/taniabhat/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/taniabhat/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/taniabhat/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/taniabhat/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/taniabhat/DSA/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/taniabhat/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/taniabhat/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/taniabhat/DSA/tree/master/0450-delete-node-in-a-bst) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/taniabhat/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/taniabhat/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/taniabhat/DSA/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/taniabhat/DSA/tree/master/0113-path-sum-ii) |
 | [0133-clone-graph](https://github.com/taniabhat/DSA/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/taniabhat/DSA/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/taniabhat/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
