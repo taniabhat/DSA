@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/taniabhat/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1745-palindrome-partitioning-iv](https://github.com/taniabhat/DSA/tree/master/1745-palindrome-partitioning-iv) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/taniabhat/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/taniabhat/DSA/tree/master/0238-product-of-array-except-self) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/taniabhat/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Recursion
 |  |
 | ------- |
