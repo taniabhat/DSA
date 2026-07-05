@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/taniabhat/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniabhat/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/taniabhat/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/taniabhat/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/taniabhat/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/taniabhat/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/taniabhat/DSA/tree/master/2126-destroying-asteroids) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/taniabhat/DSA/tree/master/0377-combination-sum-iv) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
+| [1301-number-of-paths-with-max-score](https://github.com/taniabhat/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/taniabhat/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1745-palindrome-partitioning-iv](https://github.com/taniabhat/DSA/tree/master/1745-palindrome-partitioning-iv) |
 | [3620-network-recovery-pathways](https://github.com/taniabhat/DSA/tree/master/3620-network-recovery-pathways) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/taniabhat/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/taniabhat/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/taniabhat/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/taniabhat/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/taniabhat/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
