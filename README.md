@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/taniabhat/DSA/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/taniabhat/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniabhat/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/taniabhat/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/taniabhat/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taniabhat/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/taniabhat/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taniabhat/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/taniabhat/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/taniabhat/DSA/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/taniabhat/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/taniabhat/DSA/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/taniabhat/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/taniabhat/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taniabhat/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/taniabhat/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/taniabhat/DSA/tree/master/0206-reverse-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/taniabhat/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Indexed Tree
