@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/taniabhat/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/taniabhat/DSA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/taniabhat/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/taniabhat/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
