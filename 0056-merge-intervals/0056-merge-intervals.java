@@ -2,7 +2,7 @@ class Solution {
     public int[][] merge(int[][] intervals) {
         ArrayList<int[]> res=new ArrayList<>();
         Arrays.sort(intervals, (a,b)->Integer.compare(a[0], b[0]));
-        //int idx=1;
+        
         int n=intervals.length;
         int[] currinterval=intervals[0];
         res.add(currinterval);
