@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/taniabhat/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/taniabhat/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/taniabhat/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/taniabhat/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/taniabhat/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/taniabhat/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/taniabhat/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/taniabhat/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/taniabhat/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/taniabhat/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Trie
 |  |
@@ -440,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/taniabhat/DSA/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/taniabhat/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
