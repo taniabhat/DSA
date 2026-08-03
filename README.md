@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/taniabhat/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/taniabhat/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniabhat/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/taniabhat/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/taniabhat/DSA/tree/master/1260-shift-2d-grid) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/taniabhat/DSA/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/taniabhat/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 | [1301-number-of-paths-with-max-score](https://github.com/taniabhat/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/taniabhat/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/taniabhat/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/taniabhat/DSA/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/taniabhat/DSA/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taniabhat/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/taniabhat/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -457,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/taniabhat/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
