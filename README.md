@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/taniabhat/DSA/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/taniabhat/DSA/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/taniabhat/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/taniabhat/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/taniabhat/DSA/tree/master/0070-climbing-stairs) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taniabhat/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/taniabhat/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/taniabhat/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/taniabhat/DSA/tree/master/0131-palindrome-partitioning) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/taniabhat/DSA/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/taniabhat/DSA/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
 |  |
