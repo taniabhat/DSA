@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/taniabhat/DSA/tree/master/0312-burst-balloons) |
 | [0377-combination-sum-iv](https://github.com/taniabhat/DSA/tree/master/0377-combination-sum-iv) |
 | [0435-non-overlapping-intervals](https://github.com/taniabhat/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0560-subarray-sum-equals-k](https://github.com/taniabhat/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/taniabhat/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/taniabhat/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/taniabhat/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/taniabhat/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/taniabhat/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/taniabhat/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/taniabhat/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2815-max-pair-sum-in-an-array](https://github.com/taniabhat/DSA/tree/master/2815-max-pair-sum-in-an-array) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/taniabhat/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/taniabhat/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/taniabhat/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/taniabhat/DSA/tree/master/1140-stone-game-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/taniabhat/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/taniabhat/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
