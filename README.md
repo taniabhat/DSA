@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/taniabhat/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/taniabhat/DSA/tree/master/0312-burst-balloons) |
 | [0377-combination-sum-iv](https://github.com/taniabhat/DSA/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/taniabhat/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/taniabhat/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/taniabhat/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/taniabhat/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/taniabhat/DSA/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/taniabhat/DSA/tree/master/0312-burst-balloons) |
 | [0377-combination-sum-iv](https://github.com/taniabhat/DSA/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/taniabhat/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/taniabhat/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/taniabhat/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taniabhat/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/taniabhat/DSA/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/taniabhat/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 | [1631-path-with-minimum-effort](https://github.com/taniabhat/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/taniabhat/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/taniabhat/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/taniabhat/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/taniabhat/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/taniabhat/DSA/tree/master/1140-stone-game-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/taniabhat/DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -456,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/taniabhat/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/taniabhat/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/taniabhat/DSA/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/taniabhat/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/taniabhat/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/taniabhat/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/taniabhat/DSA/tree/master/1927-sum-game) |
