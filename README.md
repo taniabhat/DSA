@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/taniabhat/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/taniabhat/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/taniabhat/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0739-daily-temperatures](https://github.com/taniabhat/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/taniabhat/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniabhat/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/taniabhat/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/taniabhat/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/taniabhat/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/taniabhat/DSA/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniabhat/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/taniabhat/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/taniabhat/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/taniabhat/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/taniabhat/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/taniabhat/DSA/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/taniabhat/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/taniabhat/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
