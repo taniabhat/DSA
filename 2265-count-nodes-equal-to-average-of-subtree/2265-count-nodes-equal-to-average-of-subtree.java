@@ -21,13 +21,15 @@ class Solution {
         
     }
     private int[] postOrder(TreeNode node){
-        if(node==null) return new int[] {0,0};
+        int currSum=0;
+        int currCnt=0;
+        if(node==null) return new int[] {currSum, currCnt};
 
         int[] left=postOrder(node.left);
         int[] right=postOrder(node.right);
 
-        int currSum=node.val+left[0]+right[0];
-        int currCnt=1+left[1]+right[1];
+        currSum=node.val+left[0]+right[0];
+        currCnt=1+left[1]+right[1];
 
         if(currSum/currCnt==node.val) res++;
 
