@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/taniabhat/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/taniabhat/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/taniabhat/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/taniabhat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/taniabhat/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/taniabhat/DSA/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/taniabhat/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/taniabhat/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/taniabhat/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/taniabhat/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/taniabhat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/taniabhat/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/taniabhat/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/taniabhat/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/taniabhat/DSA/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/taniabhat/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/taniabhat/DSA/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/taniabhat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/taniabhat/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/taniabhat/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
