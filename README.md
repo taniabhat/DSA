@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/taniabhat/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/taniabhat/DSA/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/taniabhat/DSA/tree/master/0371-sum-of-two-integers) |
+| [0836-rectangle-overlap](https://github.com/taniabhat/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 | [1140-stone-game-ii](https://github.com/taniabhat/DSA/tree/master/1140-stone-game-ii) |
@@ -632,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/taniabhat/DSA/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/taniabhat/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
