@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/taniabhat/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/taniabhat/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1510-stone-game-iv](https://github.com/taniabhat/DSA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/taniabhat/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1745-palindrome-partitioning-iv](https://github.com/taniabhat/DSA/tree/master/1745-palindrome-partitioning-iv) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/taniabhat/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/taniabhat/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 | [1140-stone-game-ii](https://github.com/taniabhat/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/taniabhat/DSA/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/taniabhat/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/taniabhat/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/taniabhat/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taniabhat/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/taniabhat/DSA/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/taniabhat/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## String
 |  |
 | ------- |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/taniabhat/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/taniabhat/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/taniabhat/DSA/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/taniabhat/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3364-minimum-positive-sum-subarray](https://github.com/taniabhat/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/taniabhat/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/taniabhat/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
