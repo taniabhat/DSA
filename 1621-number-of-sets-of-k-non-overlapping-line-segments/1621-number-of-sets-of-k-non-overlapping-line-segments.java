@@ -2,33 +2,22 @@ class Solution {
     public int numberOfSets(int n, int k) {
         int MOD = 1000000007;
 
-        long[][] dp = new long[n][k + 1];
+        int total = n + k - 1;
+        int choose = 2 * k;
 
-        // With 0 segments, there is exactly 1 way
+        long[][] dp = new long[total + 1][choose + 1];
+
+        // C(0, 0) = 1
         dp[0][0] = 1;
 
-        for (int i = 1; i < n; i++) {
+        for (int i = 1; i <= total; i++) {
             dp[i][0] = 1;
-        }
 
-        for (int j = 1; j <= k; j++) {
-
-            long sum = 0;
-
-            for (int i = 1; i < n; i++) {
-
-                // Ways where we don't use point i
-                dp[i][j] = dp[i - 1][j];
-
-                // Add possible starting points of the new segment
-                if (i >= 1) {
-                    sum = (sum + dp[i - 1][j - 1]) % MOD;
-                }
-
-                dp[i][j] = (dp[i][j] + sum) % MOD;
+            for (int j = 1; j <= choose && j <= i; j++) {
+                dp[i][j] = (dp[i - 1][j - 1] + dp[i - 1][j]) % MOD;
             }
         }
 
-        return (int) dp[n - 1][k];
+        return (int) dp[total][choose];
     }
 }
