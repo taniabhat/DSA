@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/taniabhat/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/taniabhat/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/taniabhat/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/taniabhat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/taniabhat/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/taniabhat/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/taniabhat/DSA/tree/master/2029-stone-game-ix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/taniabhat/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/taniabhat/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/taniabhat/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/taniabhat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/taniabhat/DSA/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/taniabhat/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1745-palindrome-partitioning-iv](https://github.com/taniabhat/DSA/tree/master/1745-palindrome-partitioning-iv) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/taniabhat/DSA/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/taniabhat/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/taniabhat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/taniabhat/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/taniabhat/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/taniabhat/DSA/tree/master/3161-block-placement-queries) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/taniabhat/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/taniabhat/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/taniabhat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/taniabhat/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2815-max-pair-sum-in-an-array](https://github.com/taniabhat/DSA/tree/master/2815-max-pair-sum-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/taniabhat/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/taniabhat/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/taniabhat/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/taniabhat/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/taniabhat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/taniabhat/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/taniabhat/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/taniabhat/DSA/tree/master/3364-minimum-positive-sum-subarray) |
