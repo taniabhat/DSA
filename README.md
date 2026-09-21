@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/taniabhat/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/taniabhat/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/taniabhat/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/taniabhat/DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/taniabhat/DSA/tree/master/3161-block-placement-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/taniabhat/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/taniabhat/DSA/tree/master/3620-network-recovery-pathways) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/taniabhat/DSA/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Matrix
 |  |
 | ------- |
