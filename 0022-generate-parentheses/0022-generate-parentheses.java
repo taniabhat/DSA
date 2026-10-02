@@ -10,7 +10,7 @@ class Solution {
             return;
         }
 
-        if(open<max) backtrack(res,curr+'(', open+1, close, max);
-        if(close<open) backtrack(res,curr+')', open, close+1, max);
+        if(open<max) backtrack(res,curr+"(", open+1, close, max);
+        if(close<open) backtrack(res,curr+")", open, close+1, max);
     }
 }
