@@ -3,7 +3,7 @@ class Solution {
         int cnt=0;
 
         for(int i=low;i<=high;i++){
-            String sdig=String.valueOf(i);
+            String sdig=i+"";
 
             if(sdig.length()%2==0){
                 int mid=sdig.length()/2;
