@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/taniabhat/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/taniabhat/DSA/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/taniabhat/DSA/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/taniabhat/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/taniabhat/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/taniabhat/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/taniabhat/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/taniabhat/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taniabhat/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/taniabhat/DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/taniabhat/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/taniabhat/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/taniabhat/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
