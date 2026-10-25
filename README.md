@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/taniabhat/DSA/tree/master/0887-super-egg-drop) |
 | [0940-distinct-subsequences-ii](https://github.com/taniabhat/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/taniabhat/DSA/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/taniabhat/DSA/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/taniabhat/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/taniabhat/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/taniabhat/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/taniabhat/DSA/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/taniabhat/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/taniabhat/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/taniabhat/DSA/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/taniabhat/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1745-palindrome-partitioning-iv](https://github.com/taniabhat/DSA/tree/master/1745-palindrome-partitioning-iv) |
 | [1927-sum-game](https://github.com/taniabhat/DSA/tree/master/1927-sum-game) |
@@ -731,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/taniabhat/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/taniabhat/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
