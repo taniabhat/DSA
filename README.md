@@ -740,5 +740,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/taniabhat/DSA/tree/master/0577-employee-bonus) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/taniabhat/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
