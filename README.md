@@ -742,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0577-employee-bonus](https://github.com/taniabhat/DSA/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/taniabhat/DSA/tree/master/0610-triangle-judgement) |
+| [1280-students-and-examinations](https://github.com/taniabhat/DSA/tree/master/1280-students-and-examinations) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/taniabhat/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/taniabhat/DSA/tree/master/1789-primary-department-for-each-employee) |
 <!---LeetCode Topics End-->
