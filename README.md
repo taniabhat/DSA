@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/taniabhat/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/taniabhat/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/taniabhat/DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/taniabhat/DSA/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/taniabhat/DSA/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/taniabhat/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/taniabhat/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/taniabhat/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/taniabhat/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/taniabhat/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/taniabhat/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/taniabhat/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/taniabhat/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/taniabhat/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/taniabhat/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taniabhat/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/taniabhat/DSA/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/taniabhat/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/taniabhat/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/taniabhat/DSA/tree/master/0229-majority-element-ii) |
@@ -746,4 +749,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/taniabhat/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/taniabhat/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/taniabhat/DSA/tree/master/1789-primary-department-for-each-employee) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/taniabhat/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
