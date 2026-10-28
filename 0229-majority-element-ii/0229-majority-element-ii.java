@@ -3,7 +3,7 @@ class Solution {
         List<Integer> ans=new ArrayList<>();
         Map<Integer, Integer> freq=new HashMap<>();
         for(int n: nums){
-            freq.merge(n,1,Integer::sum);
+            freq.put(n, freq.getOrDefault(n,0)+1);
         }
         for(Map.Entry<Integer, Integer> entry:freq.entrySet()){
             if(entry.getValue()>nums.length/3) ans.add(entry.getKey());
