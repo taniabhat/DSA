@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/taniabhat/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/taniabhat/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/taniabhat/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/taniabhat/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/taniabhat/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/taniabhat/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/taniabhat/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/taniabhat/DSA/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/taniabhat/DSA/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/taniabhat/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/taniabhat/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/taniabhat/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/taniabhat/DSA/tree/master/0143-reorder-list) |
