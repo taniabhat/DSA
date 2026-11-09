@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/taniabhat/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/taniabhat/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/taniabhat/DSA/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/taniabhat/DSA/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/taniabhat/DSA/tree/master/0371-sum-of-two-integers) |
 | [0836-rectangle-overlap](https://github.com/taniabhat/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/taniabhat/DSA/tree/master/0877-stone-game) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/taniabhat/DSA/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/taniabhat/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/taniabhat/DSA/tree/master/1260-shift-2d-grid) |
 ## Counting Sort
 |  |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/taniabhat/DSA/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/taniabhat/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
