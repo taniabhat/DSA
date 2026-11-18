@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/taniabhat/DSA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/taniabhat/DSA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/taniabhat/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/taniabhat/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/taniabhat/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/taniabhat/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/taniabhat/DSA/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/taniabhat/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/taniabhat/DSA/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/taniabhat/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/taniabhat/DSA/tree/master/1260-shift-2d-grid) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/taniabhat/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taniabhat/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/taniabhat/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/taniabhat/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/taniabhat/DSA/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/taniabhat/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/taniabhat/DSA/tree/master/0141-linked-list-cycle) |
