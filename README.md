@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/taniabhat/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/taniabhat/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/taniabhat/DSA/tree/master/2029-stone-game-ix) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/taniabhat/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2843-count-symmetric-integers](https://github.com/taniabhat/DSA/tree/master/2843-count-symmetric-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/taniabhat/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/taniabhat/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/taniabhat/DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/taniabhat/DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/taniabhat/DSA/tree/master/1260-shift-2d-grid) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/taniabhat/DSA/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Counting Sort
 |  |
 | ------- |
