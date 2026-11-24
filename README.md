@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/taniabhat/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/taniabhat/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/taniabhat/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/taniabhat/DSA/tree/master/0053-maximum-subarray) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/taniabhat/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/taniabhat/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/taniabhat/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/taniabhat/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/taniabhat/DSA/tree/master/0032-longest-valid-parentheses) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/taniabhat/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/taniabhat/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/taniabhat/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/taniabhat/DSA/tree/master/0018-4sum) |
@@ -789,4 +792,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/taniabhat/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/taniabhat/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
