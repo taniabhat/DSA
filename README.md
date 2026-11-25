@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/taniabhat/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/taniabhat/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/taniabhat/DSA/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/taniabhat/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/taniabhat/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/taniabhat/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/taniabhat/DSA/tree/master/0312-burst-balloons) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/taniabhat/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/taniabhat/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/taniabhat/DSA/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/taniabhat/DSA/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/taniabhat/DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/taniabhat/DSA/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/taniabhat/DSA/tree/master/1288-remove-covered-intervals) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/taniabhat/DSA/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/taniabhat/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
